@@ -5,16 +5,19 @@
     
   <url>
     <loc>http://yoursite.com/2017/01/12/hello-world/</loc>
-    <lastmod>2017-01-13T13:15:38.501Z</lastmod>
+    <lastmod>2017-01-14T04:03:52.202Z</lastmod>
     <data>
         <display>
-        <title>hello-world</title>
+        <title>第一篇博客</title>
         <pubTime>2017-01-12T06:30:42.000Z</pubTime>
         
-        <tag>tags</tag>
+        <tag>hello-world</tag>
          
          
            
+             
+              <breadCrumb title="随想" url="http://yoursite.com/categories/%E9%9A%8F%E6%83%B3/"/>
+          
         </display>
     </data>
     </url>

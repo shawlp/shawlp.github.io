@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-13T13:15:38.501Z</updated>
+  <updated>2017-01-14T04:03:52.202Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,24 +16,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello-world</title>
+    <title>第一篇博客</title>
     <link href="http://yoursite.com/2017/01/12/hello-world/"/>
     <id>http://yoursite.com/2017/01/12/hello-world/</id>
     <published>2017-01-12T06:30:42.000Z</published>
-    <updated>2017-01-13T13:15:38.501Z</updated>
+    <updated>2017-01-14T04:03:52.202Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Hello-world！"><a href="#Hello-world！" class="headerlink" title="Hello world！"></a>Hello world！</h1><p>这是我建立的第一个博客网站，记录生活感想。</p>
+    <content type="html"><![CDATA[<h2 id="Welcome-to-My-First-Blog"><a href="#Welcome-to-My-First-Blog" class="headerlink" title="Welcome to My First Blog"></a>Welcome to My First Blog</h2><p><img src="http://ojr3g13zq.bkt.clouddn.com/hello.jpg" alt="hello"></p>
+<h3 id="回顾2016"><a href="#回顾2016" class="headerlink" title="回顾2016"></a>回顾2016</h3><p>  2016这一年告别了学生的青涩，奔向了令人向往的职业生涯，尝试开始了在一个新的城市生活。</p>
+<pre><code>* 4年大学学业的完成
+* 从学生到社会人士的转变
+* 从学校转向社会的生活
+</code></pre><h3 id="展望2017"><a href="#展望2017" class="headerlink" title="展望2017"></a>展望2017</h3><p>   2017，是我走入社会的第一年，希望自己能够尽快找到自己的方向，并为之努力，拿出自己饱满的热情，认真的对待自己的工作，管理好自己的生活。</p>
+<blockquote>
+<p>Always believe that something wonderful is about to happen</p>
+</blockquote>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Hello-world！&quot;&gt;&lt;a href=&quot;#Hello-world！&quot; class=&quot;headerlink&quot; title=&quot;Hello world！&quot;&gt;&lt;/a&gt;Hello world！&lt;/h1&gt;&lt;p&gt;这是我建立的第一个博客网站，记录生活感想。&lt;/p&gt;
-
+      &lt;h2 id=&quot;Welcome-to-My-First-Blog&quot;&gt;&lt;a href=&quot;#Welcome-to-My-First-Blog&quot; class=&quot;headerlink&quot; title=&quot;Welcome to My First Blog&quot;&gt;&lt;/a&gt;Welcome to My 
     
     </summary>
     
+      <category term="随想" scheme="http://yoursite.com/categories/%E9%9A%8F%E6%83%B3/"/>
     
-      <category term="tags" scheme="http://yoursite.com/tags/tags/"/>
+    
+      <category term="hello-world" scheme="http://yoursite.com/tags/hello-world/"/>
     
   </entry>
   
