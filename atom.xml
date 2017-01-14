@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-14T04:16:11.215Z</updated>
+  <updated>2017-01-14T04:23:33.222Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,10 +20,10 @@
     <link href="http://yoursite.com/2017/01/12/hello-world/"/>
     <id>http://yoursite.com/2017/01/12/hello-world/</id>
     <published>2017-01-12T06:30:42.000Z</published>
-    <updated>2017-01-14T04:16:11.215Z</updated>
+    <updated>2017-01-14T04:23:33.222Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Welcome-to-My-First-Blog"><a href="#Welcome-to-My-First-Blog" class="headerlink" title="Welcome to My First Blog"></a>Welcome to My First Blog</h2><p><img src="http://ojr3g13zq.bkt.clouddn.com/hello.jpg" alt="hello"></p>
-<h3 id="回顾2016"><a href="#回顾2016" class="headerlink" title="回顾2016"></a>回顾2016</h3><p>  2016这一年告别了学生的青涩，奔向了令人向往的职业生涯，尝试开始了在一个新的城市生活。</p>
+<h3 id="回顾2016"><a href="#回顾2016" class="headerlink" title="回顾2016"></a>回顾2016</h3><p>  2016这一年告别了学生的青涩，奔向了令人向往的职业生涯，尝试开始了在一个新的城市生活。<br><a id="more"></a>      </p>
 <pre><code>* 4年大学学业的完成
 * 从学生到社会人士的转变
 * 从学校转向社会的生活
@@ -31,20 +31,12 @@
 <blockquote>
 <p>Always believe that something wonderful is about to happen</p>
 </blockquote>
-<a id="more"></a>
 ]]></content>
     
     <summary type="html">
     
       &lt;h2 id=&quot;Welcome-to-My-First-Blog&quot;&gt;&lt;a href=&quot;#Welcome-to-My-First-Blog&quot; class=&quot;headerlink&quot; title=&quot;Welcome to My First Blog&quot;&gt;&lt;/a&gt;Welcome to My First Blog&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://ojr3g13zq.bkt.clouddn.com/hello.jpg&quot; alt=&quot;hello&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;回顾2016&quot;&gt;&lt;a href=&quot;#回顾2016&quot; class=&quot;headerlink&quot; title=&quot;回顾2016&quot;&gt;&lt;/a&gt;回顾2016&lt;/h3&gt;&lt;p&gt;  2016这一年告别了学生的青涩，奔向了令人向往的职业生涯，尝试开始了在一个新的城市生活。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;* 4年大学学业的完成
-* 从学生到社会人士的转变
-* 从学校转向社会的生活
-&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&quot;展望2017&quot;&gt;&lt;a href=&quot;#展望2017&quot; class=&quot;headerlink&quot; title=&quot;展望2017&quot;&gt;&lt;/a&gt;展望2017&lt;/h3&gt;&lt;p&gt;   2017，是我走入社会的第一年，希望自己能够尽快找到自己的方向，并为之努力，拿出自己饱满的热情，认真的对待自己的工作，管理好自己的生活。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Always believe that something wonderful is about to happen&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h3 id=&quot;回顾2016&quot;&gt;&lt;a href=&quot;#回顾2016&quot; class=&quot;headerlink&quot; title=&quot;回顾2016&quot;&gt;&lt;/a&gt;回顾2016&lt;/h3&gt;&lt;p&gt;  2016这一年告别了学生的青涩，奔向了令人向往的职业生涯，尝试开始了在一个新的城市生活。&lt;br&gt;
     
     </summary>
     
